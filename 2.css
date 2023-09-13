@@ -1,0 +1,70 @@
+*{
+    font-family: sans-serif;
+    margin: auto;
+}
+.btn{
+    width: 120px;
+    height: 30px;
+    color: white;
+    background-color: darkblue;
+    border: none;
+    border-radius: 3px;
+}
+.btn2{
+    width: 120px;
+    height: 30px;
+    color: white;
+    background-color: rgb(48, 152, 250);
+    border: none;
+    border-radius: 3px;
+}
+.pone{
+    height: 35px;
+    width: 95%;
+}
+.btn3{
+    width: 98%;
+    height: 40px;
+    color: white;
+    background-color: purple;
+    border: none;
+    border-radius: 5px;
+    outline: none;
+    cursor: pointer;
+    font-size: 18px;
+}
+fieldset{
+    width: 20%;
+    margin-top: 150px;
+    border: none;
+    border-radius: 5px;
+    background-color: white;
+    height: 400px;
+}
+h1{
+    text-align: center;
+    font-size: 25px;
+    margin: 20px;
+}
+.fur{
+    text-align: center;
+}
+body{
+    background-color: purple;
+}
+.two{
+    margin: 20px;
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
+.thr{
+    font-size: 12px;
+    text-align: center;
+    margin-top: -16.5px;
+    margin-left: -45px;
+}
+.gone{
+    margin-top: 25px;
+}

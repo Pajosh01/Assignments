@@ -1,0 +1,42 @@
+*{
+    font-family: sans-serif;
+    margin: auto;
+}
+h1{
+    background-color: rgb(68, 6, 40);
+    color: white;
+    height: 60px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+    width: 21.35%;
+    margin-top: 13%;
+}
+fieldset{
+ width: 20%;
+ height: 190px;
+ background-color: white;
+}
+input{
+    margin-top: 30px;
+    width: 95%;
+    height:30px;
+}
+.two{
+    margin-top: 0px;
+}
+a{
+    text-decoration: none;
+    color: purple;
+}
+button{
+    width: 35%;
+    color: white;
+    background-color: rgb(68, 6, 40);
+    border: none;
+    border-radius: 3px;
+    height: 40px;
+}
+body{
+    background-color: purple;
+}
